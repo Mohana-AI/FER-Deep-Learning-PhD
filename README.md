@@ -1,2 +1,2 @@
 # FER-Deep-Learning
-Facial Emotion Recognition : Deep Learning Algorithms
+Facial Emotion Recognition using Deep Learning Algorithms
