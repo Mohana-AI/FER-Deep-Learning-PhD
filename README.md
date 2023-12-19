@@ -1,2 +1,2 @@
 # Emotion Recognition
-Facial Emotion Recognition using Deep Learning Algorithms
+Facial Expression Recognition using Deep Learning Algorithms
